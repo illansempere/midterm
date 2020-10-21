@@ -1,4 +1,4 @@
-* {
+body {
     background-color: #cbaf87;
 }
 
@@ -12,6 +12,10 @@ header {
 
 main{
     background-color: #e7dec8;
+}
+
+h2 {
+    text-align: center;
 }
 
 header ul {
@@ -32,6 +36,7 @@ main li {
 
 img {
     float: left; 
+    padding-right: 10px;
 }
 
 .below {
