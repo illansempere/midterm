@@ -1,0 +1,39 @@
+* {
+    background-color: #cbaf87;
+}
+
+header {
+    background-color: #7e8a97;
+    display: block;
+    text-align: center;
+    position:sticky;
+    top: 0px;
+}
+
+main{
+    background-color: #e7dec8;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+a:link {
+    color: rgb(31,183,221);
+}
+
+a:visited {
+    color: silver;
+}
+
+main li {
+    color: teal;
+}
+
+img {
+    float: left; 
+}
+
+.below {
+    clear:left;
+}
